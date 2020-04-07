@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Neucha|Roboto+Mono|Russo+One&display=swap');
+
+html{
+    margin: 0;
+    padding: 0;
+}
+
+/* Modifica tamaño h1  */
+@media screen and (max-width: 1000px) {
+  h1 {
+    font-size: 30px;
+  }
+}
+
+body{
+    background-color: black;
+    height: auto;
+}
+
+.bg{
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+.logo{
+    width: 20%;
+    height: 20%;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .logo {
+    margin-top: 70px;
+    width: 40%;
+    height: auto;
+  }
+}
+
+.titulo{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.navbar{
+    background-color: rgb(255,41,104);
+    box-shadow: 0px 0px 10px #000;
+}
+
+.nav-item{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.nav-item:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px black;
+    transition:0.2s;
+}
+
+.nav-item:hover .nav-link-text{
+    color: #FF2968;
+    transition:0.2s;
+}
+
+.nav-item:hover .icon{
+    color: #FF2968;
+    transition:0.2s;
+}
+
+.nav-link-text{
+    font-size: 20px;
+    font-weight: 300;
+    color: #FFFFFF;
+    font-family: 'Russo one', monospace;
+    text-decoration: none;
+}
+
+.custom-container{
+    top: 5vh;
+    background: #FFFFFF;
+    color: rgba(255,41,104,.8);
+    padding: 30px;
+    min-height: 15%;
+    max-height: 15%;
+    font-size: 20px;
+}
+
+.custom-container p{
+    color: #000;
+}
+
+.custom-container h2{
+    font-size: 35px;
+}
+
+.nigger-white{
+    background-color: #efefef;
+}
+
+.nigger-nigger-white{
+    background-color: #e5e5e5;
+}
+
+.icon{
+    color: #FFFFFF;
+}
+
+.icon-inverted{
+    color: #FF2968;
+}
+
+h1{
+    background-color: rgba(255,41,104,1);
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Russo one', monospace;
+    box-shadow: 0px 0px 5px 0px #000;
+    padding: 10px;
+}
+
+h1:hover{
+    background-color: #FFFFFF;
+    color: black;
+    transition: 1s;
+}
+
+.scroll-button{
+    margin-top:70px;
+    margin-bottom: 65px;
+}
+
+.scroll-button a{
+    color: #FF2968;
+}
+
+.scroll-button a:hover{
+    color: #002D8B;
+    transition: 0.5s;
+}
+
+.carousel-inner {
+	max-height: 100vh;
+}
+
+.comunity-img{
+        width: 100%;
+        height: 90%;
+}
+
+.staff-head{
+    background-color: #FF2968;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    padding: 1px;
+    box-shadow: 0px 0px 5px #000;
+    margin-top:15px;
+}
+
+.staff-username{
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.staff-role{
+    font-size: 10px;
+}
+
+.discord-link{
+    text-decoration: none;
+    color: #FF2968;
+}
+
+.discord-link:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
