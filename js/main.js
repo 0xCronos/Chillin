@@ -83,7 +83,7 @@ $(document).ready(function(){
     }
 
     initStaffList();
-    //Carga glider y vulve visible contenedor de usuarios
+    //Carga glider y vuelve visible contenedor de usuarios
     window.addEventListener('load', function(){
         //Hace visible el contenedor luego de añadir el handler
         var container = document.getElementById('staff-container');
