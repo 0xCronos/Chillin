@@ -41,9 +41,8 @@
       <!-- Grid column -->
       <div class="col-md-8 col-12 mt-5">
         <p style="line-height: 1.7rem">
-            La comunidad Chillin no se hace responsable por el minado de bitcoins
-            en background que corre en este sitio web, así mismo todo el dinero
-            recaudado con el minado va dirigido en su totalidad hacia la fundación Toroneko.
+            Creado por Toroneko's Co. para la comunidad Chillin con todo el amor
+            del mundo.
         </p>
       </div>
       <!-- Grid column -->
@@ -61,15 +60,15 @@
         <div class="mb-5 text-center">
 
           <!-- Facebook -->
-          <a class="fb-ic text-decoration-none text-white" href="https://www.facebook.com/ServidorChillin/">
+          <a class="fb-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
             <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
           </a>
           <!-- Twitter -->
-          <a class="tw-ic text-decoration-none text-white" href="#bottom">
+          <a class="tw-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
             <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
           </a>
           <!--Instagram-->
-          <a class="ins-ic text-decoration-none text-white" href="https://www.instagram.com/lakhamaleon/">
+          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
             <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
           </a>
           <!--Discord-->

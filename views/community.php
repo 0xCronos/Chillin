@@ -46,7 +46,7 @@
             <div class="col-md-6">
                 <h2>Experiencia mejorada</h2>
                 <p>Nuestro servidor utiliza plugins para ofrecer una experiencia de juego
-                   unica e inigualable, que te asegurarán horas y horas de diversión.
+                   única e inigualable, que te asegurarán horas y horas de diversión.
                 </p>
             </div>
             <!-- Discord section handler -->

@@ -6,7 +6,7 @@
     <div class="collapse navbar-collapse w-100" id="navbar">
         <ul class="navbar-nav w-100 justify-content-center">
             <li class="nav-item">
-                <a data-scroll class="nav-link" href="#">
+                <a data-scroll class="nav-link" href="index.php#">
                     <span class="nav-link-text">
                         <i class="fas fa-home icon"></i>
                         Inicio
@@ -14,19 +14,19 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#community">
+                <a class="nav-link" href="index.php#community">
                     <i class="fas fa-users icon"></i>
                     <span class="nav-link-text">Comunidad</span>
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#discord">
+                <a class="nav-link" href="index.php#discord">
                     <i class="fab fa-discord icon"></i>
                     <span class="nav-link-text">Discord</span>
                 </a>
             </li>
             <!-- <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="tienda.php">
                     <i class="fas fa-shopping-basket icon"></i>
                     <span class="nav-link-text">Tienda</span>
                 </a>
