@@ -60,19 +60,19 @@
         <div class="mb-5 text-center">
 
           <!-- Facebook -->
-          <a class="fb-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
+          <a class="fb-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" target=_blank>
             <i class="fab fa-facebook-f fa-lg white-text mr-4"> </i>
           </a>
           <!-- Twitter -->
-          <a class="tw-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
+          <a class="tw-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" target=_blank>
             <i class="fab fa-twitter fa-lg white-text mr-4"> </i>
           </a>
           <!--Instagram-->
-          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
+          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" target=_blank>
             <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
           </a>
           <!--Discord-->
-          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA">
+          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" target=_blank>
             <i class="fab fa-discord fa-lg white-text mr-4"> </i>
           </a>
 
