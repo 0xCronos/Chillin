@@ -15,18 +15,12 @@ $(document).ready(function(){
     function updateNavbarIcons(){
         var size = window.matchMedia("(max-width: 1700px)");
         var icons = document.getElementsByClassName('icon');
-        var downloadIcon = document.getElementsByClassName('icon-inverted');
         for(var i = 0; i< icons.length; i++){
             if(size.matches){
                 icons[i].style.display = 'none';
             }else{
                 icons[i].style.display = '';
             }
-        }
-        if(size.matches) {
-            downloadIcon[0].style.display = 'none';
-        }else{
-            downloadIcon[0].style.display = '';
         }
     }
 
@@ -108,7 +102,4 @@ $(document).ready(function(){
             }
         });
     });
-
-    // TODO: REFACTOR ALL THE CODE
-
 });
