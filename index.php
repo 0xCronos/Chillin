@@ -6,7 +6,7 @@
     <title>Chillin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta name="keywords" content="minecraft, servidor, chillin, chile, latinoamerica, español, hispana, descargar, discord,">
-    <meta name="author" content="0xCronos">
+    <meta name="author" content="0xCronos, Torokokoo">
     <link rel="icon" type="image/png" href="img/favicon.png" sizes="64x64">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="fontAwesome/css/all.min.css">
