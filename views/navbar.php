@@ -1,5 +1,5 @@
 <nav class="navbar navbar-light navbar-expand-md bg-faded justify-content-center sticky-top">
-    <a href="#" class="navbar-brand d-flex w-50 mr-auto"><span class="nav-link-text">Chillin</span></a>
+    <a href="#" class="navbar-brand d-flex w-50 mr-auto" style="cursor:default;"><span class="nav-link-text">Chillin</span></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -25,12 +25,12 @@
                     <span class="nav-link-text">Discord</span>
                 </a>
             </li>
-            <!-- <li class="nav-item">
-                <a class="nav-link" href="tienda.php">
-                    <i class="fas fa-shopping-basket icon"></i>
-                    <span class="nav-link-text">Tienda</span>
+            <li class="nav-item">
+                <a class="nav-link" href="store.php">
+                    <i class="fas fa-donate icon"></i>
+                    <span class="nav-link-text">Donaciones</span>
                 </a>
-            </li> -->
+            </li>
         </ul>
         <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
             <li data-dialog="somedialog" class="nav-item" style="background-color: #FFFFFF">
