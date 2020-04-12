@@ -40,6 +40,7 @@
 
     <!-- Discord section-->
     <?php include_once 'views/discord.php'  ?>
+
     <!-- Discord section - subsection staff -->
     <?php include_once 'views/staff.php'    ?>
 
