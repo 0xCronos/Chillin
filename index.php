@@ -56,6 +56,7 @@
     <script src="js/classie.js"></script>
     <script src="js/dialogFx.js"></script>
     <script>
+        //dialogBox
     	(function() {
 
     		var dlgtrigger = document.querySelector( '[data-dialog]' ),
