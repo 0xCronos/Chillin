@@ -195,6 +195,19 @@ h1:hover{
     font-size: 18px;
 }
 
+.footer-username{
+    color: white;
+    font-size: 15px;
+    margin-top: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.footer-username:hover{
+    background-color: white;
+    color: #FF2968;
+    text-decoration: none;
+}
+
 .page-footer{
     background-color: #FF2968;
 }
