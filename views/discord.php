@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-6 mt-5">
                 <h2>Unete a discord!</h2>
-                <p class="text-white">Enterate de las ultimas novedades en nuestro discord,
+                <p class="text-white font-weight-light">Enterate de las ultimas novedades en nuestro discord,
                     conoce las reglas, contacta al soporte, y adentrate en esta
                     hermosa comunidad.
                 </p>
