@@ -7,8 +7,8 @@
     <div class="row text-center d-flex justify-content-center pt-5 mb-3">
 
       <div class="col-md-2 mb-3">
-        <h6 class="text-uppercase font-weight-bold ">
-          <a class="text-white" href="index.php">Inicio</a>
+        <h6 class="text-uppercase font-weight-bold">
+          <a class="text-white" href="index.php#top">Inicio</a>
         </h6>
       </div>
 
@@ -38,7 +38,7 @@
 
       <div class="col-md-8 col-12 mt-5">
         <p style="line-height: 1.7rem">
-            Creado por Toroneko's Co. para la comunidad Chillin con todo el amor del mundo.
+            Creado por <a class="footer-username" href="https://0xcronos.com/" target=_BLANK>0xCronos</a> y <a class="footer-username" href="https://torokoko.cl/" target=_BLANK>Torokoko</a> para la comunidad Chillin con todo el amor del mundo.
         </p>
       </div>
 
@@ -64,7 +64,7 @@
             <i class="fab fa-instagram fa-lg white-text mr-4"> </i>
           </a>
           <!--Discord-->
-          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" target=_BLANK>
+          <a class="ins-ic text-decoration-none text-white" href="https://discord.gg/9HXaKGA" sameSite="None" target=_BLANK>
             <i class="fab fa-discord fa-lg white-text mr-4"> </i>
           </a>
 
